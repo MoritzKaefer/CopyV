@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-18T13:47:45Z" name="MainTest" finished-at="2021-05-18T13:47:45Z" duration-ms="23">
+    <groups>
+    </groups>
+    <test started-at="2021-05-18T13:47:45Z" name="Command line test" finished-at="2021-05-18T13:47:45Z" duration-ms="23">
+      <class name="MainTest">
+        <test-method signature="CopyV_Given_WeWantToSeeAWelcomeMessage_When_WeGetTheMessage_Then_theMessageShouldBeExactlyHelloCopyV()[pri:0, instance:MainTest@2d8f65a4]" started-at="2021-05-18T13:47:45Z" name="CopyV_Given_WeWantToSeeAWelcomeMessage_When_WeGetTheMessage_Then_theMessageShouldBeExactlyHelloCopyV" finished-at="2021-05-18T13:47:45Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CopyV_Given_WeWantToSeeAWelcomeMessage_When_WeGetTheMessage_Then_theMessageShouldBeExactlyHelloCopyV -->
+      </class> <!-- MainTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- MainTest -->
+</testng-results>
